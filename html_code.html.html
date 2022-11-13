@@ -1,0 +1,111 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<style>
+    /* *{margin: 0;
+        padding: 0;
+
+    } */
+    body{
+        display: flex;
+        justify-content: center;
+        align-content: center;
+        background-image: url(17724.jpg);
+        background-position: center;
+        background-size: cover ;
+        /* background-repeat: no-repeat; */
+        /* overflow-x: hidden;
+        overflow-y: hidden; */
+    }
+    #onef{
+        margin-left: 170px;
+        display: flex;
+        align-content: center;
+        justify-content: center;
+       
+    }
+    #secf{
+        
+    }
+    #formo,#formt{
+        margin: 100px;
+    }
+    #code{
+        float: right;
+    }
+    input,select{
+        margin-right: 30px;
+        margin-bottom: 15px;
+        
+    }
+    fieldset{
+        background-color: aliceblue;
+    }
+    input:hover{
+        border: rgb(7, 102, 133) 2px solid;
+    }
+</style>
+<body><form>
+    <fieldset id="onef">
+    <fieldset id="secf" >
+        <legend>Provide your details</legend>
+        <fieldset id="formo">
+            <table>
+                <tr>
+                    <td>Name:</td>
+                    <td><input type="text" id="Name"></td>
+                    <td>Father's Name<input type="radio" name="q" id="Father">
+                        Husband's Name<input type="radio" name="q" id="Husband"></td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                     <td>Age:</td>
+                     <td><input type="number" id="Age"></td>
+                     <td>Gender:</td>
+                     <td>
+                        <select name="" id="">
+                            <option value="">Male</option>
+                            <option value="">Female</option>
+                        </select>
+                     </td>
+                </tr>
+            </table>
+            </fieldset>
+                <fieldset id="formt">
+                    <table>
+                <tr>
+                    <td>State:</td>
+                    <td>
+                        <select name="" id="">
+                            <option value="">Select State</option>
+                            <option value="">Uttar Pradesh</option>
+                            <option value="">Punjab</option>
+                            <option value="">Madhya Pradesh</option>
+                            <option value="">Uttarakhand</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>District:</td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td>Assembly Consituency:</td>
+                    <td><input type="text" id="AC"></td>
+                </tr>
+
+            </table>
+        </fieldset>
+            
+        </table>
+        <input type="submit" value="SEARCH">
+        
+    </fieldset>
+</fieldset>
+</form>
+</body>
+</html>

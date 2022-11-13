@@ -1,0 +1,36 @@
+Agra Cantt,101
+Bah,102
+Etmadpur,103
+Aligarh,104
+Atrauli,105
+Barauli,106
+Aonla,107
+Baheri,108
+Faridpur,109
+Sujanpur,110
+Bhoa,111
+Pathankot,112
+Gurdaspur,113
+Qadian,114
+Batala,115
+Ajnala,116
+Majitha,117
+Jandiala,118
+Ater,119
+Bhind,120
+Lahar,121
+Sewda,122
+Bhander,123
+Datia,124
+Karera,125
+Pohari,126
+Shivpuri,127
+Purola,128
+Yamunotri,129
+Gangotri,	130
+Badrinath,131
+Tharali,132
+Karnaprayag,133
+Devprayag,134
+Tehri,135
+Dhanaulti,136
