@@ -81,6 +81,7 @@ class Person:
             self.__residents.remove(self.__person)
             self.parents()
 
+ #Taking Input.
 AC=input("Enter Assembly Constituency:")
 ac=0
 with open("AC_No.txt",'r') as f:
